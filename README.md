@@ -8,4 +8,4 @@ In terminal, run the following command:
 ```php -S localhost:3006 -t ./```
 Then, open your browser and type in the following URL:
 ```http://localhost:3006/```
-To quit the server, press `Ctrl+C` in terminal.
+To quit the server, press `Ctrl+C` in terminal. www
